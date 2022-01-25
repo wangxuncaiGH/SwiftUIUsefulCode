@@ -1,2 +1,3 @@
 # SwiftUIUsefulCode
 记录常用实用的swift和swiftUI代码片段
+Gesture View可以包裹你的swiftUI视图，然后你就可以移动缩放旋转视图了。
